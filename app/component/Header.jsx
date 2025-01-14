@@ -15,7 +15,7 @@ const Header = () => {
         frontend web developer based in kolkata.
       </h1>
       <p className='max-w-xl mx-auto font-ovo'>
-        I am a frontend developer from kolkata with experience in multipple tools like React.js, Twailwind.css,Next.js and many more...
+        I am a frontend developer from kolkata with experience in multipple tools like React.js, Tailwind.css,Next.js and many more...
       </p>
       <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
         <a href='#contact' 

@@ -21,7 +21,7 @@ to real-life scenarios, and contributing my ideas and problemsolving skills to t
 alongside the organization.
             </p>
             <ul className='grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl'>
-                {infoList.map(({icon,iconDark,title,description},
+                {infoList.map(({icon,title,description},
                     index)=>(
                         <li className='border-[0.5px] border-gray-400 rounded-xl p-6 cursor-pointer hover:bg-lightHover hover:-translate-y-2 duration-500 
                         hover:shadow-black' key={index}>
