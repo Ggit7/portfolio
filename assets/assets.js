@@ -102,8 +102,8 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web development', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.ui_icon, title: 'Web design', description: 'Web design focuses on creating a seamless user experience...', link: '' },
+    { icon: assets.web_icon, title: 'Web development', description: 'Web development is the process of building, programming of a website', link: '' },
+    { icon: assets.ui_icon, title: 'Web design', description: 'Web design focuses on creating a seamless user experience for a website', link: '' },
 ]
 
 export const infoList = [
