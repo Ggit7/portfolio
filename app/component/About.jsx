@@ -13,12 +13,7 @@ const About = () => {
         </div>
         <div className='fle-1'>
             <p className='mb-10 max-w-2xl font-Ovo'>
-            As an aspiring Frontend Developer with a keen interest in
-Software Engineering, my objective is to secure a responsible
-position in the IT industry, particularly in fresher and entry-level
-roles. My goals include learning new technologies, applying them
-to real-life scenarios, and contributing my ideas and problemsolving skills to the growth of the company while growing
-alongside the organization.
+           As an aspiring Frontend Developer with a strong interest in Software Engineering, I aim to secure a responsible position in the IT industry, focusing on fresher or entry-level roles. My primary goals include continuously learning new technologies, applying them effectively in real-world scenarios, and leveraging my problem-solving abilities to contribute to the company's success while fostering my professional growth.
             </p>
             <ul className='grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl'>
                 {infoList.map(({icon,title,description},
