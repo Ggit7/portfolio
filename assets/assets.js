@@ -98,6 +98,25 @@ export const workData = [
         bgImage: './work-2.png',
         link:'https://shop-kappa-five.vercel.app/'
     },
+      {
+        title: 'jcexteriorcleaning.ie',
+        description: 'web Development',
+        bgImage: './work-2.png',
+        link:'https://jcexteriorcleaning.ie/'
+    },
+      {
+        title: 'dacsolarsystems.ie',
+        description: 'web Development',
+        bgImage: './work-2.png',
+        link:'https://dacsolarsystems.ie/'
+    },
+       {
+        title: 'stylishbathrooms.ie',
+        description: 'web Development',
+        bgImage: './work-2.png',
+        link:'https://stylishbathrooms.ie/'
+    },
+    
   
 ]
 
